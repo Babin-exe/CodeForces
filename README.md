@@ -1,2 +1,1 @@
-# CodeForces
-Some competitive programming Stuff 
+stuff
