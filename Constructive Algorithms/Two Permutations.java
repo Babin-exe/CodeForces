@@ -1,6 +1,5 @@
 // Problem link : https://codeforces.com/problemset/problem/1761/A
 
-
 import java.util.*;
 
 public class Main {
@@ -19,6 +18,7 @@ public class Main {
             }
 
         }
+        sc.close();
 
     }
 }
